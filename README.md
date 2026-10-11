@@ -3,22 +3,21 @@
 <details>
   <summary><strong>Koyeb (One-Click Deploy)</strong></summary>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&builder=dockerfile&repository=github.com/your_name/repo&branch=main&name=leech-bot&service_type=worker)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&builder=dockerfile&repository=github.com/sanjusenbot1/Duplicate-Video-finder-zake&branch=main&name=duplicate-video-finder-zake&service_type=worker)
 
 </details>
 
 <details>
   <summary><strong>Heroku (One-Click Deploy)</strong></summary>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/your_name/repo/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanjusenbot1/Duplicate-Video-finder-zake/tree/main)
 
 </details>
 
 <details>
   <summary><strong>Render (One-Click Deploy)</strong></summary>
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/your_name/repo&branch=main)
-
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sanjusenbot1/Duplicate-Video-finder-zake&branch=main)
 </details>
 <details>
   <summary><strong>VPS/Locally</strong></summary>
