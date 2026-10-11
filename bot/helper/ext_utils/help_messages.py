@@ -1,5 +1,4 @@
-
-
+# @TheZake on Telegram 
 start = """<b>Gretting(s)</b>:
 
 Welcome 🤗"""
@@ -8,9 +7,13 @@ BASIC_HELP_DICT = {
     "main": start,
 }
 
-
 def get_bot_commands():
     static_commands = {
+        "Scan": "•Scan one or more chats and save duplicate message IDs without deleting them",
+        "DeleteDuplicates": "•Delete saved duplicates; without an ID, select chats from a menu",
+        "ListScans": "•List your saved DeDup scan records",
+        "CancelScan": "•Cancel the active DeDup scan",
+        "ClearDedup": "•Clear saved DeDup data for a chat, all your chats, or selected chats",
         "Start": "•Start the bot",
         "Stats": "•Get bot statistics",
         "Help": "•Detailed help usage",
@@ -26,11 +29,6 @@ def get_bot_commands():
         "Log": "•Get recent bot logs",
         "BotSet": "•Configure bot settings",
         "Restart": "•Restart the bot",
-        "Scan": "•Scan one or more chats and save duplicate message IDs without deleting them",
-        "DeleteDuplicates": "•Delete saved duplicates; without an ID, select chats from a menu",
-        "ListScans": "•List your saved DeDup scan records",
-        "CancelScan": "•Cancel the active DeDup scan",
-        "ClearDedup": "•Clear saved DeDup data for a chat, all your chats, or selected chats",
     }
     return static_commands.copy()
 
