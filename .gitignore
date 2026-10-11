@@ -1,0 +1,8 @@
+.venv/*
+config.py
+.netrc
+log.txt
+shortener.txt
+downloads/*
+__pycache__/
+*.pyc
