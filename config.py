@@ -6,7 +6,7 @@ BOT_TOKEN = ""  # Bot token from @BotFather.
 HELPER_TOKENS = ""  # Space-separated helper bot tokens for scanning chats.
 USER_SESSION_STRING = ""  # User session used for duplicate-message deletion.
 OWNER_ID = 8002345109  
-DATABASE_URL = "https://github.com/sanjuwenbot2/DuplicateBotbyzake"  # MongoDB
+DATABASE_URL = "mongodb+srv://sanjusen212121_db_user:sKB7azda2F9At4Ne@cluster0.tbiorzo.mongodb.net/"  # MongoDB
 
 TG_PROXY = None
 HELPER_BOT_PROXIES = None
