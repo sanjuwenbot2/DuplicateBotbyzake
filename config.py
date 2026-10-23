@@ -1,7 +1,7 @@
 # Required Telegram application credentials.
 
-TELEGRAM_API = 0  # API ID from https://my.telegram.org.
-TELEGRAM_HASH = ""  # API hash from https://my.telegram.org.
+TELEGRAM_API = "33409327"   # API ID from https://my.telegram.org.
+TELEGRAM_HASH = "ffd1404c4d9d69d3417b45c33e32ea6f"  # API hash from https://my.telegram.org.
 BOT_TOKEN = ""  # Bot token from @BotFather.
 HELPER_TOKENS = ""  # Space-separated helper bot tokens for scanning chats.
 USER_SESSION_STRING = ""  # User session used for duplicate-message deletion.
