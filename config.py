@@ -5,8 +5,8 @@ TELEGRAM_HASH = "ffd1404c4d9d69d3417b45c33e32ea6f"  # API hash from https://my.t
 BOT_TOKEN = ""  # Bot token from @BotFather.
 HELPER_TOKENS = ""  # Space-separated helper bot tokens for scanning chats.
 USER_SESSION_STRING = ""  # User session used for duplicate-message deletion.
-OWNER_ID = 0  
-DATABASE_URL = ""  # MongoDB
+OWNER_ID = 8002345109  
+DATABASE_URL = "https://github.com/sanjuwenbot2/DuplicateBotbyzake"  # MongoDB
 
 TG_PROXY = None
 HELPER_BOT_PROXIES = None
